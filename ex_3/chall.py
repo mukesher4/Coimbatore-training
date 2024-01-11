@@ -1,5 +1,4 @@
 from Crypto.Util.number import *
-from sympy import nextprime 
 flag = b"cyberolympics{###stop_hoping_to_find_the_flag_here###}"
 
 p = getPrime(1024)
